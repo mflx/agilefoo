@@ -1,4 +1,4 @@
-title = "Agiles Coaching"
+title = "Agiles Coaching und Consulting von leanovate"
 baseURL = "https://agilefoo-88548.netlify.com"
 languageCode = "de"
 themesDir = "../.."
@@ -14,25 +14,22 @@ google_tag_manager_id = ""
   alt = "Serif - A Hugo Business Theme"
 
   [params.homepage_meta_tags]
-  meta_description = "Agiles Coaching und Business Coaching buchen. Erste 15min-Session als Vorgespräch kostenlos."
-  meta_og_title = "Agiles Coaching buchen"
+  meta_description = "Agiles Coaching und Consulting buchen. Erste 15min-Session als Vorgespräch kostenlos."
+  meta_og_title = "Coaching buchen"
   meta_og_type = "website"
   meta_og_url = "https://agilefoo-88548.netlify.com"
   meta_og_image = ""
-  meta_og_description = "Agiles Coaching und Business Coaching buchen. Erste 15min-Session als Vorgespräch kostenlos."
+  meta_og_description = "Agiles Coaching / Business Coaching buchen. Erste 15min-Session als Vorgespräch kostenlos."
   meta_twitter_card = "summary"
   meta_twitter_site = "@mflx"
   meta_twitter_creator = "@mflx"
 
-[[menu.main]]
-name = "Services"
-url = "/services/"
-weight = 1
+
 
 [[menu.main]]
 name = "Team"
 url = "/team/"
-weight = 2
+weight = 1
 
 [[menu.footer]]
 name = "Home"
@@ -41,5 +38,5 @@ weight = 1
 
 [[menu.footer]]
 name = "Contact"
-url = "/contact/"
+url = "https://www.leanovate.de/kontakt/"
 weight = 2
