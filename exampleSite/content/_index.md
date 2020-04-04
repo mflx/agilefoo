@@ -5,6 +5,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# Den Herausforderungen mit Coaching begegnen.
 
-## Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+## Gerade in unsicheren Zeiten wie jetzt kann ein Coaching helfen, um Themen zur Teamentwicklung, Remotearbeit und New Work, oder persönliche Weiterentwicklung anzugehen und Lösungen zu erarbeiten.
+Unsere zertifizierten Agilen Coaches und Systemischen Business Coaches begleiten Sie gerne dabei. 

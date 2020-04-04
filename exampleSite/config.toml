@@ -1,6 +1,6 @@
-title = "Hugo Serif Theme"
-baseURL = "www.example.com"
-languageCode = "en-us"
+title = "Agiles Coaching"
+baseURL = "https://agilefoo-88548.netlify.com"
+languageCode = "de"
 themesDir = "../.."
 theme = "hugo-serif-theme"
 
@@ -14,15 +14,15 @@ google_tag_manager_id = ""
   alt = "Serif - A Hugo Business Theme"
 
   [params.homepage_meta_tags]
-  meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-  meta_og_title = "Hugo Serif Theme"
+  meta_description = "Agiles Coaching und Business Coaching buchen. Erste 15min-Session als Vorgespräch kostenlos."
+  meta_og_title = "Agiles Coaching buchen"
   meta_og_type = "website"
-  meta_og_url = "https://hugo-serif.netlify.com"
-  meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-  meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_og_url = "https://agilefoo-88548.netlify.com"
+  meta_og_image = ""
+  meta_og_description = "Agiles Coaching und Business Coaching buchen. Erste 15min-Session als Vorgespräch kostenlos."
   meta_twitter_card = "summary"
-  meta_twitter_site = "@zerostaticio"
-  meta_twitter_creator = "@zerostaticio"
+  meta_twitter_site = "@mflx"
+  meta_twitter_creator = "@mflx"
 
 [[menu.main]]
 name = "Services"
